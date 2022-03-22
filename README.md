@@ -2,8 +2,8 @@
 
 I am Mohamed Kabha, currently pursuing a Computer Science degree from [Ben-Gurion University](https://in.bgu.ac.il/en/pages/default.aspx). Team Player with an innate ability to practically apply academically learned concepts. A self-learner and Well-versed with Software Development tools and the ability to derive simple solutions to complex problems. Feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-kaiwalyakoparkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-kabha-275496173/)](https://www.linkedin.com/in/mohamed-kabha-275496173/)
-[![Gmail Badge](https://img.shields.io/badge/-kaiwalyakoparkar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mkabha54@gmail.com)](mailto:mkabha54@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-kabhamo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-kabha-275496173/)](https://www.linkedin.com/in/mohamed-kabha-275496173/)
+[![Gmail Badge](https://img.shields.io/badge/-mkabha54@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mkabha54@gmail.com)](mailto:mkabha54@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://kabhamo.github.io/WebSite/)](https://kabhamo.github.io/WebSite/)
 
 <img src="https://activity-graph.herokuapp.com/graph?username=kabhamo&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
