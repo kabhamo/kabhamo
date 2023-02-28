@@ -1,6 +1,6 @@
 ## Hi, I am Mohamed! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Mohamed Kabha, currently pursuing a Computer Science degree from [Ben-Gurion University](https://in.bgu.ac.il/en/pages/default.aspx). Team Player with an innate ability to practically apply academically learned concepts. A self-learner and Well-versed with Software Development tools and the ability to derive simple solutions to complex problems. Feel free to connect with me here:
+I am Mohamed Kabha, experienced Full Stack Engineer 👨‍💻 with BSc in Computer Science from [Ben-Gurion University](https://in.bgu.ac.il/en/pages/default.aspx). Team Player with an innate ability to practically apply academically learned concepts. A self-learner and Well-versed with Software Development tools and the ability to derive simple solutions to complex problems. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-kabhamo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-kabha-275496173/)](https://www.linkedin.com/in/mohamed-kabha-275496173/)
 [![Gmail Badge](https://img.shields.io/badge/-mkabha54@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mkabha54@gmail.com)](mailto:mkabha54@gmail.com)
