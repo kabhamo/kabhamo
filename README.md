@@ -4,9 +4,6 @@ Experienced Full Stack Engineer 👨‍💻 with BSc in Computer Science from [B
 
 [![Linkedin Badge](https://img.shields.io/badge/-kabhamo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-kabha-275496173/)](https://www.linkedin.com/in/mohamed-kabha/)
 [![Gmail Badge](https://img.shields.io/badge/-mkabha54@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mkabha54@gmail.com)](mailto:mkabha54@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://kabhamo.github.io/WebSite/)](https://kabhamo.github.io/WebSite/)
-
-<img src="https://activity-graph.herokuapp.com/graph?username=kabhamo&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 
 ## ⚡ Technologies
 
